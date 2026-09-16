@@ -26,14 +26,14 @@
 
 ## 📥 Guia de Instalação e Downloads
 
-### 📦 Links Diretos dos Arquivos Necessários:
+### 📦 Links Diretos dos Arquivos (GitHub Releases - Permanentes):
 
-| Arquivo | Descrição | Link para Download |
+| Arquivo | Descrição | Link para Download Direto |
 | :--- | :--- | :--- |
-| 🦊 **OrangeFox Recovery** | Recovery R12.0 Unofficial específico para Raphael | [Baixar no Gofile](https://gofile.io/d/E0IA4XSE) |
+| 🦊 **OrangeFox Recovery** | Recovery R12.0 Unofficial específico para Raphael | [Baixar no GitHub](https://github.com/jairorossi/ComicsOS-Raphael-Edition/releases/download/v1.0-zero/OrangeFox-R12.0-Unofficial-raphael-20260907.zip) |
 | 📶 **Firmware MIUI 12.5.2** | Firmware Oficial MIUI Global Android 11 para Raphael | [Baixar no Gofile](https://gofile.io/d/iMakeCes) |
-| 📱 **ROM ComicsOS Raphael** | ROM ComicsOS Zero Official (Android 12.1) | [Baixar no Gofile](https://gofile.io/d/wUwVzmkS) |
-| 🌐 **NikGapps ComicsOS** | Pacote GApps customizado e otimizado para a ComicsOS | [Baixar no Gofile](https://gofile.io/d/5Ps0gvgG) |
+| 📱 **ROM ComicsOS Raphael** | ROM ComicsOS Zero Official (Android 12.1) | [Baixar no GitHub](https://github.com/jairorossi/ComicsOS-Raphael-Edition/releases/download/v1.0-zero/Comics-Zero-OFFICIAL-raphael-20260916.zip) |
+| 🌐 **NikGapps ComicsOS** | Pacote GApps customizado e otimizado para a ComicsOS | [Baixar no GitHub](https://github.com/jairorossi/ComicsOS-Raphael-Edition/releases/download/v1.0-zero/NikGapps-ComicsOS.zip) |
 
 ---
 
@@ -65,7 +65,7 @@
    * Instale o **Firmware Android 11** (`FW A11 / MIUI 12.5.2`).
 
 6. **Instalar a ROM:**
-   * Instale o pacote da **ComicsOS** (`Comics-Zero-OFFICIAL--20260916-1116.zip`).
+   * Instale o pacote da **ComicsOS** (`Comics-Zero-OFFICIAL-raphael-20260916.zip`).
 
 7. **Reiniciar no Recovery Novamente:**
    * Menu > **Reboot** > **Recovery** *(obrigatório antes de passar os GApps)*.
