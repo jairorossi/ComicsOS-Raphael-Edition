@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Remove os repositórios originais da IronOS que nós modificamos -->
+  <remove-project name="IronOSProject/android_build_make" />
+  <remove-project name="IronOSProject/android_device_xiaomi_raphael" />
+  <remove-project name="IronOSProject/android_frameworks_base" />
+  <remove-project name="IronOSProject/android_hardware_qcom-caf_sm8150_display" />
+  <remove-project name="IronOSProject/android_hardware_qcom_sm8150_display" />
+  <remove-project name="IronOSProject/android_packages_apps_Boxer" />
+  <remove-project name="IronOSProject/android_packages_apps_Settings" />
+  <remove-project name="IronOSProject/android_packages_modules_adb" />
+  <remove-project name="IronOSProject/android_vendor_iron" />
+
+  <!-- Adiciona os repositórios da sua conta GitHub com a branch comics-12.1 -->
+  <project name="jairorossi/android_build_make" path="build/make" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_device_xiaomi_raphael" path="device/xiaomi/raphael" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_frameworks_base" path="frameworks/base" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_hardware_qcom-caf_sm8150_display" path="hardware/qcom-caf/sm8150/display" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_hardware_qcom_sm8150_display" path="hardware/qcom/sm8150/display" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_packages_apps_Boxer" path="packages/apps/Boxer" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_packages_modules_adb" path="packages/modules/adb" remote="github" revision="comics-12.1" />
+  <project name="jairorossi/android_vendor_comics" path="vendor/comics" remote="github" revision="comics-12.1" />
+</manifest>
